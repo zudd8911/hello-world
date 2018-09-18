@@ -1,2 +1,2 @@
 # hello-world
-just testing github - create new branch on my own
+just wonder how to use github - create new branch on my own
